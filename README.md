@@ -1,7 +1,7 @@
 # Hi 👋
 
 - 👱🏽‍♂️ I’m Tiranga Sheetal Beck
-- 👀 Interested in Full Stack Development & Flutter for Android Development
+- 👀 Interested Flutter for Android Development
 - 🌱 Occasional coder. I build tools for myself to simplify life, sharpen logical thinking, and enhance problem-solving skills. Just a hobby though.
 - ⚡  Fun fact: I don't know much but I know what to Google and debug things
 
